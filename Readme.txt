@@ -1,0 +1,1 @@
+HP 3478A  OTP 64Kbit U502  (Program Rom) labelled 03478-65501 D/C 118*
